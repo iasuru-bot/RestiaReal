@@ -1,0 +1,20 @@
+GREY = (128, 128, 128)
+GREEN = (0, 255, 0)
+WHITE = (255, 255, 255)
+BLACK = (10, 10, 10)
+BORDEAUX = (102, 0, 0)
+SALMON_RED = (255, 51, 51)
+PUR_BLACK = (0, 0, 0,)
+BLUE = (0, 105, 204)
+PUR_BLUE = (0, 0, 204)
+DARK_BLUE = (0, 0, 102)
+LIGHT_BLUE = (153, 206, 255)
+SKY_BLUE = (204, 229, 255)
+GOLD = (255, 223, 0)
+PERFECT_BLUE = (0, 100, 255)
+YELLOW = (255, 255, 0)
+RED = (255, 0, 0)
+DARK_GREEN = (0, 102, 0)
+# pour utiliser les couleurs laisser le fichier "couleur" dans le même dossier que le .py puis importer couleur.py
+
+# from Couleur.py import *
